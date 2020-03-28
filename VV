@@ -119,8 +119,10 @@ http://203.153.218.28:9981/stream/channelid/2038175895.m3u
 http://203.153.218.28:9981/stream/channelid/1316004766.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO SIGNATURE
 http://203.153.218.28:9981/stream/channelid/1197019186.m3u
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",RED BY HBO
-#http://tvku.live:8888/gocir/herdiana91/874
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w48192294_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",Blue ant extreme
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1105952770_b684100_sleng.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",SPACTOON
@@ -172,6 +174,15 @@ http://203.153.218.28:9981/stream/channelid/255605374.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",WARNER TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1610425795_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",Blue ant extreme
-#http://tvku.live:8888/gocir/herdiana91/811
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1105952770_b684100_sleng.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",DANGDUT
+https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w1723442304_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",T MUSIC
+https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w385328705_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",I KONSER
+https://vcdnjt.useetv.com/joss/14/ikonser/chunklist_w1452883168_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",MTV
+https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w289094300_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MUSIK",PRAMBORSTV
+https://vcdnjt.useetv.com/joss/14/pramborstv/chunklist_w1739612769_b684100_sleng.m3u8
