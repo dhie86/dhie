@@ -104,25 +104,25 @@ https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w457529436_b684100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",TVN MOVIES
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1023014718_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX MOVIES
-http://203.153.218.28:9981/stream/channelid/756717990.m3u8
+http://203.153.218.28:9981/stream/channelid/756717990.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX ACTION MOVIES
-http://203.153.218.28:9981/stream/channelid/1744735983.m3u8
+http://203.153.218.28:9981/stream/channelid/1744735983.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX FAMILY 
-http://203.153.218.28:9981/stream/channelid/1949182550.m3u8
+http://203.153.218.28:9981/stream/channelid/1949182550.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",FOX 
-http://203.153.218.28:9981/stream/channelid/1910872088.m3u8
+http://203.153.218.28:9981/stream/channelid/1910872088.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HD
-http://203.153.218.28:9981/stream/channelid/1299824667.m3u8
+http://203.153.218.28:9981/stream/channelid/1299824667.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895.m3u8
+http://203.153.218.28:9981/stream/channelid/2038175895.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO FAMILY
-http://203.153.218.28:9981/stream/channelid/1316004766.m3u8
+http://203.153.218.28:9981/stream/channelid/1316004766.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",HBO SIGNATURE
-http://203.153.218.28:9981/stream/channelid/1197019186.m3u8
+http://203.153.218.28:9981/stream/channelid/1197019186.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",RED BY HBO
 #http://tvku.live:8888/gocir/herdiana91/874
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",CINEMAX
-http://203.153.218.28:9981/stream/channelid/255605374.m3u8
+http://203.153.218.28:9981/stream/channelid/255605374.m3u
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",WARNER TV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1610425795_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="MOVIE",Blue ant extreme
