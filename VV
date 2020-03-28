@@ -123,6 +123,32 @@ http://203.153.218.28:9981/stream/channelid/1197019186.m3u
 #http://tvku.live:8888/gocir/herdiana91/874
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",SPACTOON
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w1604698905_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",BABY FIRST
+https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w1012804352_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",DUNIA ANAK
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w168702534_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",DAVINCI
+https://vcdnjt.useetv.com/joss/14/davinci/chunklist_w373410599_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",NICKELDEON ID
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w1289529978_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",NICK JR ID
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w1932489370_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",DREAM WORKS
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w227861480_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",BOOMERANG
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1631625969_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",ANIPLUS
+https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1534307626_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",ANIMAX
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w591539267_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",HORE
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w2059901583_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KIDS",DUCK TV
+https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w1457418337_b684100_sleng.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KNOWLEDGE",WAKUWAKU
 https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w122263293_b1344100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/d3b3TgRH/photo6276127433975507509.jpg" group-title="KNOWLEDGE",NATIONAL GEO WILD
