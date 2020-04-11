@@ -2,19 +2,6 @@
 #EXTM3U
 
 
-http://iptvpro.vision-new.org:8789/get.php?username=sabri&password=skype&type=m3u
-#EXTINF:-1 tvg-id="AXN.bg" group-title="ADMIN", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
-#EXTINF:-1 tvg-id="AXN.bg" group-title="ADMIN", BEDA PRINSIP 
-http://34.65.105.31:2429/usa2020/hbohd/playlist.m3u8
-#EXTINF:-1 tvg-id="AXN.bg" group-title="ADMIN", BEDA PRINSIP 
-http://34.65.105.31:2429/usa2020/discoveryfamily/playlist.m3u8
-
-==================================================================notif===============================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="Local", Masa expired 12 April 2020
-==================================================================Local======================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="Local", Masa expired 12 April 2020
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV backup
@@ -121,8 +108,6 @@ http://210.210.155.35/qwr9ew/s/s10/01.m3u8
 
 
  ==========================================================INDONESIA==================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="INDONESIA", Masa expired 12 April 2020
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-ID=""tvg-name="RCTI" tvg-logo="https://i.postimg.cc/fW90WbV0/cover-rcti.jpg" group-title="INDONESIA",RCTI Backup
 https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="INDONESIA",MNC TV
@@ -246,8 +231,6 @@ http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 
 =================================================================FilmPremium1=======================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium1", Masa expired 12 April 2020 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:0 group-title="FilmPremium1",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/.m3u8
 #EXTINF:0 group-title="FilmPremium1",Bioskop Indonesia
@@ -350,7 +333,6 @@ https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
 
  =======================================================================FilmPremium2==============================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium2", Masa expired 12 April 2020 
 https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="FilmPremium2",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
