@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169473~exp=9007200830910464~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=de134c99dd118bcb1cdf9ce6f79f4c8f97cc6c76d8a22ced11105b72fd70aadd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7ePccz.png" group-title="Local", MNC TV backup
@@ -227,8 +225,6 @@ http://radartasikmalaya.onlivestreaming.net/radartasikmalaya/livestream/playlist
 http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
 
 
-
-
 =================================================================FilmPremium1=======================================================================
 #EXTINF:0 group-title="FilmPremium1",FLIK
 https://vcdnjt.useetv.com/joss/15/flik/.m3u8
@@ -326,13 +322,7 @@ http://80.78.65.170:8383/StarHD
 https://1648401168.rsc.cdn77.org/1648401168/tracks-v1a1/mono.m3u8
 
 
-
-
-
-
-
  =======================================================================FilmPremium2==============================================================================================
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_15.png" group-title="FilmPremium2",FOX Family Movies
 http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
 #EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="FilmPremium2",Fox Movies
@@ -386,8 +376,6 @@ https://vod.awanputih.info/djastv/lovenature.m3u8
  
 
 =====================================================================FilmPremium3=============================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium3", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:0 group-title="FilmPremium3",Fox Movies
 http://djasritv.my.id:2021/jangan/di_sniff_ya/17
 #EXTINF:0 group-title="FilmPremium3",Fox Action Movies
@@ -425,50 +413,7 @@ http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E5
 #EXTINF:-1 group-title="FilmPremium3",History Channel 
 http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass 
 
-
-
-==========================================================================FilmPremium4=======================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium4", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",HBO FAMILY (BACKUP)
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",HBO SIGNATURE (BACKUP)
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass 
-#EXTINF:-1 group-title="FilmPremium4",HBO FAMILY
-http://203.153.218.28:9981/stream/channelid/1316004766?ticket=8603609D96360D7B639AB97584FF09E1086B3284&profile=pass 
-#EXTINF:-1 group-title="FilmPremium4",HBO HITS
-http://203.153.218.28:9981/stream/channelid/2038175895?ticket=0299B4C37DF5A2B463E83E4FFD9AD1E91BA48253&profile=pass 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",CINEMAX (BACKUP)
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",FOX FILM MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",STAR MOVIES
-http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8 
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="FilmPremium4",STAR WORLD
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8 
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmPremium4",AXN (BACKUP)
-http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1 group-title="FilmPremium4", RAI MOVIE HD 
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="FilmPremium4",CINNEMAX
-http://203.153.218.28:9981/stream/channelid/255605374?ticket=434549F6D027878D70C7F1F479D0C3495B16099D&profile=pass
-#EXTINF:-1 group-title="FilmPremium4",FOX FILM MOVIES
-http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass 
-#EXTINF:-1 group-title="FilmPremium4",FOX MOVIES
-http://203.153.218.28:9981/stream/channelid/756717990?ticket=D9CDD7DB18E80023C22954FE693F71DB745D5CE7&profile=pass 
-#EXTINF:-1 group-title="FilmPremium4",FOX MOV
-http://203.153.218.28:9981/stream/channelid/1197019186?ticket=96AB9AD0536B1000E515E3219100C78A9625CAE3&profile=pass 
-#EXTINF:-1 group-title="FilmPremium4",History Channel
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass 
-
-
-
-
 =============================================================================FilmLuar=====================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FilmLuar", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="FilmLuar",FX
 http://160.119.77.50/iptv/hd-fxeng.stream/playlist.m3u8
 #EXTINF:0 tvg-id="fox-crime" group-title="FilmLuar",Fox
@@ -580,114 +525,6 @@ http://iptvfree.gq/live/redbyhbo.m3u8
 
 
 
-
-============================================================================FILM-BACKUP======================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FILM-BACKUP", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Dbyxf6h/First-Movies.png" group-title="FILM-BACKUP", First Movie
-#http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2htjs2L/Zee-Bioskop.png" group-title="FILM-BACKUP", Zee Bioskop
-https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5493668622001/profile_3/chunklist.m3u8?hdnts=st=1576169705~exp=9007200830910696~acl=/ed9f674616594d96bbe00f93ab8d7672/*/profile_3/chunklist.m3u8*~hmac=c464efdac528cb4b0e4c27ada7a0480ce7bce6030e39ab45e36833b4bc9b9fbd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/58dvXvh/Flik.png" group-title="FILM-BACKUP", FLIK
-https://dl.dropbox.com/s/iop2061487sr706/Flik.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ck3vKhr/E-tv.png" group-title="FILM-BACKUP", E!Tv
-https://livetvhooq.akamaized.net/37882cebae53494fbb9e86e68eae4673/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1583534824~exp=9007200838275815~acl=/37882cebae53494fbb9e86e68eae4673/*/profile_2/chunklist.m3u8*~hmac=1919a5f608940f358fe74336007c2ffa32b0846849cc58f7875d0deb15704c12&hdnts=st=1583534826~exp=1583534946~acl=/*~id=2dec7e47-5c82-47bf-993e-a20a122fba93~data=180.247.83.138~hmac=1b85f3062282af415a3482415a2186f861b6ba4f5a43a7a986b0fe0ef7ea16ea
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3rZ7YbH/AXN.png" group-title="FILM-BACKUP", AXN
-https://delivery.macan.live/stream/id_axn/index.m3u8?token=fOsKlBtm&amp;v=20200202
-#https://epl-inews.mncnow.id/live/eds/AXN/sa_hls/AXN-avc1_2499968=9-mp4a_98800_eng=5.m3u8
-#http://210.210.155.66/h/h141/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qjYLXF3/warner.png" group-title="FILM-BACKUP", Warner tv
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/608.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TkNSzyR/Blue-ant-Extreme.png" group-title="FILM-BACKUP", Blue Ant Extreme
-http://45.126.83.51/dr9445/h/h15/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cDvsmsj/Blue-ant-entertainment.png" group-title="FILM-BACKUP", Blue Ant Entertainment
-http://45.126.83.51/session/d65c030a-01a0-11ea-810d-82939a388d5a/dr9445/h/h16/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qk0DF8z/hbo.png" group-title="FILM-BACKUP", HBO
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/117.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0tD7TNy/hbo-hits.png" group-title="FILM-BACKUP", HBO Hits
-http:/8888/live/35Joe01/35Joe0703/124.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SJZfnHB/HBO-Signature-Asia.png" group-title="FILM-BACKUP", HBO Signature
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/571.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pxtLMDC/HBO-Family-logo.png" group-title="FILM-BACKUP", HBO Family
-http://8888/live/35Joe01/35Joe0703/125.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M8MX7F5/Cinemax.png" group-title="FILM-BACKUP", Cinemax
-http://8888/live/35Joe01/35Joe0703/192.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/XLfMD3v/Red-HBO.png" group-title="FILM-BACKUP", Red by HBO
-http://m88/live/35Joe01/35Joe0703/378.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yVNzVfb/Fox.png" group-title="FILM-BACKUP", FOX
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/766.ts
-#https://epl-inews.mncnow.id/live/eds/FoxChannel/sa_hls/FoxChannel-avc1_2499968=11-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xsDtC6J/fox-crime.png" group-title="FILM-BACKUP", FOX Crime
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/49.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VYjxthG/Fox-Life.png" group-title="FILM-BACKUP", FOX Life
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/45.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yRQxJrP/Fox-Movies.png" group-title="FILM-BACKUP", FOX Movies
-http://d:8888/live/35Joe01/35Joe0703/61.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/D1Ycnz4/Fox-Action-Movies.png" group-title="FILM-BACKUP", FOX Action Movies
-http://:8888/live/35Joe01/35Joe0703/33.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xYb1c5V/TVN.png" group-title="FILM-BACKUP", TvN
-http://888/live/35Joe01/35Joe0703/58.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3SPBFc0/Tvn-Movies.png" group-title="FILM-BACKUP", TvN movies
-http://m8888/live/35Joe01/35Joe0703/416.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8KX8PLk/sony-one.png" group-title="FILM-BACKUP", Sony One
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/42.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fFX5h2r/FX-movie.png" group-title="FILM-BACKUP", FX
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/48.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hZmTMML/Crime-investigation.png" group-title="FILM-BACKUP", Crime Investigation
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/738.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co/T8mxRjF/Celestial.png" group-title="FILM-BACKUP", Celestial Movies
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/index1.m3u8
-#https://epl-inews.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#http://45.126.83.51/qwr9ew/s/s33/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/y5S5WfK/ccm.png" group-title="FILM-BACKUP", Celestial Classic Movies
-http://mantul.biz.id:8888/live/35Joe01/35Joe0703/884.ts
-#https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/J7g3HDR/Sony-Gem.png" group-title="FILM-BACKUP", Sony Gem
-http://rr.dens.tv/h/h19/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/88q23P7/star-chinese.png" group-title="FILM-BACKUP", Star Chinese Movies
-#https://epl-inews.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PrC72Lw/SCM-legend.png" group-title="FILM-BACKUP", SCM Legend
-#https://epl-inews.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend-avc1_1000000=6-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8bf5TRP/kix.png" group-title="FILM-BACKUP", Kix
-http://210.210.155.35/uq2663/h/h07/01.m3u8
-#https://epl-inews.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kGSkBrn/Hits.png" group-title="FILM-BACKUP", Hits
-#http://210.210.155.35/uq2663/h/h17/index2.m3u8
-#https://epl-inews.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zG1gR5B/hits-movies.png" group-title="FILM-BACKUP", Hits Movies
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=fOsKlBtm&amp;v=20200202
-#https://epl-inews.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/dbnj3wQ/Thrill.png" group-title="FILM-BACKUP", Thrill
-http://210.210.155.35:80/session/9ab7f404-73b5-11e9-813d-85409622318e/qwr9ew/s/s34/01.m3u8
-#https://epl-inews.mncnow.id/live/eds/Thrill/sa_hls/Thrill-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DQkw96r/Cinema-World.png" group-title="FILM-BACKUP",Cinema World
-http://210.210.155.35/uq2663/h/h04/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0KS3CSF/kplus.png" group-title="FILM-BACKUP", K Plus
-http://210.210.155.35/uq2663/h/h08/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8BkXKTf/My-Cinema.png" group-title="FILM-BACKUP", My Cinema
-http://210.210.155.35/x6bnqe/s/s31/index2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tr7bpTX/Zee-tv.png" group-title="FILM-BACKUP", Zee Tv
-#https://epl-inews.mncnow.id/live/eds/ZeeTV/sa_hls/ZeeTV-avc1_1000000=8-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/t4PCzg4/zee-cinema.png" group-title="FILM-BACKUP", Zee Cinema
-#https://epl-inews.mncnow.id/live/eds/ZeeCinema/sa_hls/ZeeCinema-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FsVjHC0/Citra-Drama.png" group-title="FILM-BACKUP", Citra Drama
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KwTtmn0/fmn.png" group-title="FILM-BACKUP", FMN
-#https://epl-inews.mncnow.id/live/eds/FMN/sa_hls/FMN-avc1_1000000=8-mp4a_98800_eng=6.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="FILM-BACKUP", Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="FILM-BACKUP", Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4Th7Qrb/Hollywood-Movies.png" group-title="FILM-BACKUP", Hollywood Movies
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-
-
-
-============================================================================FOOTBALL=======================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FOOTBALL", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FOOTBALL", BEDA PRINSIP 
-https://www.dropbox.com/s/tp28jjvhow6s7ge/champions1.m3u?dl=0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jHCvgcw/foxsport1.png" group-title="FOOTBALL", FOX SPORT 1
 https://vcdnjt.useetv.com:443/joss/15/foxsport1/chunklist_w1374767572_b684100_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b2R9HQd/foxsport2.png" group-title="FOOTBALL", FOX SPORT 2
@@ -738,37 +575,7 @@ http://nl01.spr24.net/155/index.m3u8?token=qX9Rk4KkDPcS2L
 http://nl01.spr24.net/156/index.m3u8?token=qX9Rk4KkDPcS2L
 
 
-
-
-
-=============================================================================LIGA1===========================================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="LIGA1", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DGbbwRm/useesport-1.png" group-title="LIGA1", Liga Indonesia 1
-https://dl.dropbox.com/s/9nveneheurbyb99/usee1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5hNyV1t/useesports2.png" group-title="LIGA1", Liga Indonesia 2
-https://dl.dropbox.com/s/l2d50r76elewiar/usee2.m3u8?dl=0
-
-
-
-==========================================================================UCL===========================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="UCL", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
-#EXTINF:-1 tvg-id="SONY TEN 1" tvg-logo="https://i.postimg.cc/m2ZtdzqC/Sony-Ten-1.jpg" group-title="UCL",SONY ten1
-https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 2" tvg-logo="https://i.postimg.cc/qMgph8Sb/sony-ten-2.jpg" group-title="UCL",SONY ten2
-https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 tvg-id="SONY TEN 3" tvg-logo="https://i.postimg.cc/1RjLdb7B/images-16.png" group-title="UCL",Sony Ten 3
-https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="UCL",|FR| BEIN SPORTS 1 FHD
-http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/14160
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="UCL",|FR| BEIN SPORTS MAX 4
-http://iptvpro.premium-itv.com:8789/KOUETCHE/PatrickAwoussom2020/95
-
-
 =======================================================================SportsUnggulan====================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SportsUnggulan", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="SportsUnggulan",TVRI SPORT 
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8 
 #EXTINF:0 tvg-id="Fightnetwork.gr" group-title="SportsUnggulan",Fight Network
@@ -816,8 +623,7 @@ http://84.22.33.210:80/ss5.ott/tracks-v1a1/mono.m3u8
 
 
 ========================================================================SportsBackup==================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SportsBackup", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8jsJzGf/MNC-sport.png" group-title="SportsBackup", MNC Sports
 https://epl-inews.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wsq9hpn/mnc-sport-2.png" group-title="SportsBackup", MNC Sports 2
@@ -931,8 +737,7 @@ https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 
 
 =============================================================SportsArab1================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SportsArab1", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:0 tvg-logo="https://i.ibb.co/KhnQR6h/Skynet-1.png" group-title="SportsArab1",SKYNET1 sport
 http://27.254.149.109:8081/tumlive/SKYNET1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.ibb.co/D8nkrSy/Skynet-2.png" group-title="SportsArab1",SKYNET2 sport
@@ -1008,8 +813,7 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 
 =============================================================SportsArab2================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SportsArab2", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png" group-title="SportsArab2",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/2020223115944993BD.png" group-title="SportsArab2",Abu Dhabi Sports 2
@@ -1064,8 +868,7 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=
 
 
 ============================================================SPORTS=====================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SPORTS", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 tvg-ID="" tvg-name="ASTRO MALESIA SURIA" tvg-logo="" group-title="SPORTS",ASTRO MALAYSIA Suria 
 https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8 
 #EXTINF:0 tvg-id="" tvg-logo="https://bit.ly/2Cnvc5N" group-title="SPORTS",CCTV 5
@@ -1137,8 +940,7 @@ http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
 
 
 ======================================================================New Sports============================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="New Sports", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="New Sports",WWE Network
 http://cdnak19.cast4u.info/channels/4/10804.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6chO5x2.png" group-title="New Sports",WWE
@@ -1199,8 +1001,6 @@ http://skdn.redi-vo.com/iptv/ch1203?code=103131497823984&key=10016
 
 
 =======================================================================SPORT TV==================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SPORT TV", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/1tR1HZjt/images.png" group-title="SPORT TV",OLYMPIC CHANNEL 1
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://i.postimg.cc/1tR1HZjt/images.png" group-title="SPORT TV",OLYMPIC CHANNEL 2
@@ -1281,8 +1081,6 @@ http://iptv7.premium-stv.com:25461/rmcsport3/1557539943/68
 
 
 ================================================================WorldNews===============================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="WorldNews", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/gb/BBCNews.uk.png" group-title="WorldNews",BBC News
 http://51.52.156.22:8888/http/004
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/YDsgbyisWWU/maxresdefault.jpg" group-title="WorldNews",BBC World News
@@ -1354,8 +1152,7 @@ http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/pla
 
 
 ====================================================SCIENCE==========================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="SCIENCE", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/cz/AnimalPlanet.cz.png" group-title="SCIENCE",Animal Planet
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 #EXTINF:0 group-title="SCIENCE", ANIMAL PLANET HD
@@ -1404,8 +1201,7 @@ http://203.153.218.28:9981/stream/channelid/1114683377?ticket=39736C153BA658BB86
 
 
 ==================================================================KnowledgeTV=========================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="KnowledgeTV", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:0 group-title="KnowledgeTV",National Geograpic
 https://vcdnjt.useetv.com/joss/15/natgeo/.m3u8
 #EXTINF:0 group-title="KnowledgeTV",Nat Geo People
@@ -1444,8 +1240,7 @@ https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13
 
 
 =============================================================FoodTV===================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="FoodTV", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 tvg-id="AsianFoodChannel.sg" tvg-logo="https://i.imgur.com/SpUvTmu.png" group-title="FoodTV",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=ECA7CCC0E97969AF75820D9971228C677309CAA8&profile=pass
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5877ac8cb791f4eb4a140d81/featuredImage.jpg" group-title="FoodTV",Food TV
@@ -1458,8 +1253,7 @@ https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_e
 
 
 =============================================================KidsTV====================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="KidsTV", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:0 group-title="KidsTV",Nick Jr
 https://vcdnjt.useetv.com/joss/14/nickjr/.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAX" tvg-logo="https://i.postimg.cc/mhx7ZSp6/Animax-logo.jpg" group-title="KidsTV",ANIMAX 
@@ -1542,8 +1336,7 @@ http://51.254.215.79/appflux/gongmax/GONGMAX/gongmax_1280/chunks.m3u8
 
 
 ===========================================================================KIDS====================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="KIDS", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:-1 group-title="KIDS", Spacetoon
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/index.m3u8
 #EXTINF:-1 group-title="KIDS", Tom & Jerry TV
@@ -1590,8 +1383,7 @@ http://ws.flv.nimo.tv/live/su1599512427559r6319ab6314a165d28a228bf5917d1fe0_high
 
 
 ==============================RELIGI==================================================================================================================
-#EXTINF:-1 tvg-id="AXN.bg" group-title="RELIGI", BEDA PRINSIP 
-https://www.dropbox.com/s/thrjf0i315bcwcm/Openingyoutube.mp4?dl=1
+
 #EXTINF:0 tvg-id="ext" group-title="RELIGI",MAKKAH
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="RELIGI",MADINAH
